@@ -1,11 +1,12 @@
-Java GUI application for CRUD records with file I/O
+This was our final team project in Java 2 completed with my classmate, MJ.
 
-Application to keep a daily journal of health-related data such as glasses of water, meals, hours of sleep, calories burned, amount of exercise. 
-- First CRUD (Create, Read, Update, Delete) application
-- Concepts I learned to implement: Object-Oriented Programming, CRUD on ArrayList, MVC, Data Validation (empty field, wrong data type entered), Logic for Search and Update, UML Class Diagram, Visio
-- Language: Java
+- Our first GUI CRUD (Create, Read, Update, Delete) application
+- Concepts I learned to apply: Object-Oriented Programming, CRUD on ArrayList, MVC, Data Validation (empty field, wrong data type entered), Logic for Search and Update, UML Class Diagram, Visio
 - Tools: Scene Builder JavaFX
-- Made with a classmate 
+
+This program is designed to keep a daily journal of health-related data such as glasses of water, meals, hours of sleep, calories burned, amount of exercise. 
+
+
 
 Screen shots:
 
