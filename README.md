@@ -30,11 +30,11 @@ Final UI Screenshots:
 
 - UML
 
-<img src="/Screenshots/HealthDiary/UML.JPG" height="300px" width="400px">
+<img src="/Screenshots/UML.JPG" height="300px" width="400px">
 
 - I/O to Text File: On start, reads data lines from a TXT file to loads objects into ArrayList. On exit, overwrite the file with objects from the (updated) ArrayList.
 
-<img src="/Screenshots/HealthDiary/TextFileIO.JPG" height="300px" width="400px">
+<img src="/Screenshots/TextFileIO.JPG" height="300px" width="400px">
 
 
 
