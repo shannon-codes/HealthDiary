@@ -1,4 +1,4 @@
-This was our final team project in Java 2 completed with my classmate, MJ.
+This was our final team project in Java 2 completed with my classmate, Minjung.
 
 It was my first GUI CRUD (Create, Read, Update, Delete) applicationn. I learned to apply concepts including Object-Oriented Programming, CRUD on ArrayList, MVC, Data Validation (empty field, wrong data type entered), Logic for Search and Update, UML Class Diagram, using MS Visio, and Scene Builder JavaFX.
 
